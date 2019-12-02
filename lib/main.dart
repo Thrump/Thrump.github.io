@@ -1,20 +1,23 @@
-import 'package:flutter/material.dart';
 
-void main() => runApp(MyApp());
+import 'package:flutter/material.dart';
+import 'package:webpage/Widgets/LayoutTemplate/layout_template.dart';
+import 'package:webpage/Services/locator_service.dart';
+import 'package:webpage/Widgets/centered_view.dart';
+
+void main() {
+  setupLocator();
+  runApp(MyApp());
+  }
 
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
+      title: 'Von\'s Web Page',
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-      
-        body: Text("Under Construction",textScaleFactor: 4,),
+        body: CenteredView(child: LayoutTemplate(),),
       ),
     );
   }
