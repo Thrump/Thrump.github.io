@@ -18,6 +18,7 @@ file:///D:/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.
 file:///D:/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/unmodifiable_wrappers.dart
 file:///D:/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/utils.dart
 file:///D:/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/wrappers.dart
+file:///D:/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/get_it-3.0.3/lib/get_it.dart
 file:///D:/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.1.8/lib/meta.dart
 file:///D:/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib/typed_buffers.dart
 file:///D:/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/hash.dart
@@ -610,4 +611,14 @@ file:///D:/Applications/flutter/packages/flutter/lib/src/widgets/will_pop_scope.
 file:///D:/Applications/flutter/packages/flutter/lib/widgets.dart
 file:///D:/Projects/GitRepos/webpage/.dart_tool/flutter_build/b4809db5b4da7cf69fdc67ebf77150ec/main.dart
 file:///D:/Projects/GitRepos/webpage/.packages
+file:///D:/Projects/GitRepos/webpage/lib/Services/locator_service.dart
+file:///D:/Projects/GitRepos/webpage/lib/Services/navigation_service.dart
+file:///D:/Projects/GitRepos/webpage/lib/Services/routes.dart
+file:///D:/Projects/GitRepos/webpage/lib/Views/AboutMe/about_view.dart
+file:///D:/Projects/GitRepos/webpage/lib/Views/ContactMe/contact_view.dart
+file:///D:/Projects/GitRepos/webpage/lib/Views/HomePage/home_view.dart
+file:///D:/Projects/GitRepos/webpage/lib/Views/Skills/skills_view.dart
+file:///D:/Projects/GitRepos/webpage/lib/Widgets/LayoutTemplate/layout_template.dart
+file:///D:/Projects/GitRepos/webpage/lib/Widgets/NavigationBar/navigation_bar.dart
+file:///D:/Projects/GitRepos/webpage/lib/Widgets/centered_view.dart
 file:///D:/Projects/GitRepos/webpage/lib/main.dart
