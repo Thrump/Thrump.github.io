@@ -15,9 +15,9 @@ you can find the page link [here](https://thrump.github.io/build/web/#/)
 | Contact Me              | 0%         |
 | Mobile/Tablet Format    | 0%         |
 
+---
 
-
-## Breakdown of Progress
+### Breakdown of Progress
 
 - Navigation Bar
     - [x] Be able to navigate between pages
